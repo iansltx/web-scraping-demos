@@ -1,0 +1,26 @@
+{
+  "name": "iansltx/web-scraping-demos",
+  "description": "Demos for Web Scraping Presentation",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ian Littman",
+      "email": "iansltx@gmail.com"
+    }
+  ],
+  "config": {
+    "sort-packages": true
+  },
+  "require": {
+    "php": "^8.0",
+    "ext-json": "*",
+    "symfony/browser-kit": "^5.1",
+    "symfony/css-selector": "^5.1",
+    "symfony/http-client": "^5.1",
+    "ext-dom": "*"
+  },
+  "autoload": {
+    "psr-4": {"App\\": "src/"}
+  }
+}
