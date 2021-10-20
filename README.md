@@ -1,7 +1,7 @@
 Web Scraping Demos
 ==================
 
-This repo contains companion code to my ["Levelling Up Your Web Scraping Game" talk](https://ian.im/scrape0721).
+This repo contains companion code to my ["Levelling Up Your Web Scraping Game" talk](https://ian.im/scrape0621).
 To use the examples, run `composer install` on a system with the requisite extensions and PHP 8.0+ installed (extension
 and PHP version requirements are listed in `composer.json`), then run either `hippo.php` or `localcallingguide.php`
 directly.
